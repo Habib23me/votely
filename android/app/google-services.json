@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674569965954",
+    "firebase_url": "https://votely-c3b75.firebaseio.com",
+    "project_id": "votely-c3b75",
+    "storage_bucket": "votely-c3b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674569965954:android:5831e559b67ca5a61d3f9b",
+        "android_client_info": {
+          "package_name": "com.example.votely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674569965954-p5gkq97kfbgh1j2ia7folsj5ajchd309.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.votely",
+            "certificate_hash": "d352b706fcf343acddeb56f3db348b709f555242"
+          }
+        },
+        {
+          "client_id": "674569965954-p2s9qei161nced6fc6oj6un52v4msn5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmyjK7vs3meloui-WCWVrxEiOi5mSTMcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674569965954-p2s9qei161nced6fc6oj6un52v4msn5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
